@@ -20,6 +20,45 @@
 
 
 
+## Technology Stack
+### Vite
+
+* Role:  
+  * Vite is used as the build tool and development server.  
+* features:   
+  * Provides fast builds and optimizing the development workflow.  
+  * Supports modern JavaScript features.  
+  * Integrates seamlessly with React and other frontend libraries.  
+ 
+### React
+
+* Role:
+  * React is the frontend JavaScript library for building user interfaces.  
+* Features:  
+  * Declarative and component-based architecture for building reusable UI components.  
+  * Efficient state management using hooks (e.g., useState ).  
+  * Rich ecosystem with a vast selection of third-party libraries and components.  
+
+### Chakra UI
+
+* Role:
+ * Chakra UI is a component library for React applications, providing a set of accessible and customizable UI components.  
+* Features:  
+ * Pre-styled and accessible components that follow best practices in web accessibility.  
+ * Themeability with support for custom themes and color modes.  
+ * Seamless integration with React applications, providing a consistent design system.
+
+### Monaco Editor
+
+* Role:  
+ * Monaco Editor is the code editor component, providing advanced editing capabilities.  
+* Features:  
+ * Powering the editing experience similar to Visual Studio Code (VS Code).  
+ * Syntax highlighting for various programming languages.  
+ * IntelliSense for code completion and context-aware suggestions.  
+
+
+  
 ## Project Structure.
 code-editor-project 
 ├── public  
@@ -42,24 +81,36 @@ code-editor-project
 
 
 
-## Technology Stack
-### Vite
+## Key Components
 
-* Role:  
-  * Vite is used as the build tool and development server.  
-* features:   
-  * Provides fast builds and optimizing the development workflow.  
-  * Supports modern JavaScript features.  
-  * Integrates seamlessly with React and other frontend libraries.  
- 
-### React
+### src/components/CodeEditor.jsx:
+* React component that integrates Monaco Editor.  
+* Configures Monaco Editor instance with language support, theme, and editor options.  
+* Handles code editing functionalities such as syntax highlighting, code completion.
 
-* Role:
-  * React is the frontend JavaScript library for building user interfaces.  
-* Features:  
-  * Declarative and component-based architecture for building reusable UI components.  
-  * Efficient state management using hooks (e.g., useState ).  
-  * Rich ecosystem with a vast selection of third-party libraries and components.  
+### src/components/LanguageSelector.jsx:
+* React component to select programming language modes.  
+* Provides UI controls to switch between different language modes supported by Monaco Editor.
+
+### src/App.jsx:
+* Main application component that orchestrates the overall application layout and structure.  
+* Renders header and main content area.  
+
+### src/main.jsx:
+* Entry point of the React application where the app is initialized and rendered.
+* Uses React’s ReactDOM to render the App component into the root HTML element.
+
+## Configurations
+
+### vite.config.js:  
+* Configuration file for Vite build tool.   
+* Specifies build options, plugins, and optimizations.   
+* Configures aliases for easier module imports (e.g., @ for src directory).
+  
+### package.json:
+* Manages project dependencies and scripts.  
+* Lists dependencies such as React, Chakra UI, Monaco Editor, and other necessary libraries.  
+* Defines build and development scripts (dev, build) using Vite.  
 
 
 
@@ -75,6 +126,7 @@ code-editor-project
 * git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
 * cd Online-Code-Editor  
 
+
 ## Run Locally
 
 ```bash  
@@ -89,6 +141,10 @@ npm run dev
 The application will be available at http://localhost:5173/
 
 or 
+
+## Deployment:
+
+* Deployed the application to a hosting service (Vercel) 
 
 DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
