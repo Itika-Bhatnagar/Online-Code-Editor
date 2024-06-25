@@ -13,16 +13,15 @@ Customizable Themes: Allows users to switch between light and dark theme.
 Autocompletion: Provides intelligent code suggestions and autocompletion.  
 
 
-# Usage
+## Usage
 Open the editor and start typing your code.  
 Use the dropdown menu to select your preferred language mode (e.g., JavaScript, Python).  
 Customize the editor theme from the option in right up(Light theme /Dark Theme)  
 You can see the Output in the right box.  
 
-# Project Structure.
+## Project Structure.
 code-editor-project  
-├── public  
-│   ├── index.html  
+├── public   
 ├── src  
 │   ├── components  
 │   │   ├── CodeEditor.jsx  
