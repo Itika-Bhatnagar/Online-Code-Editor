@@ -67,7 +67,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
 
   
-## <font color="red">Project Structure.</font>
+## Project Structure.  
 code-editor-project   
 ├── public  
 │ ├── vite.svg  
@@ -131,8 +131,8 @@ code-editor-project
 
 
 # Installation 
-* git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
-* cd Online-Code-Editor  
+''' * git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
+''' * cd Online-Code-Editor  
 
 
 ## Run Locally
