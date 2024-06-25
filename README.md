@@ -51,11 +51,11 @@
 ### Monaco Editor
 
 * Role:    
- * Monaco Editor is the code editor component, providing advanced editing capabilities.  
+  * Monaco Editor is the code editor component, providing advanced editing capabilities.  
 * Features:    
- * Powering the editing experience similar to Visual Studio Code (VS Code).  
- * Syntax highlighting for various programming languages.  
- * IntelliSense for code completion and context-aware suggestions.  
+  * Powering the editing experience similar to Visual Studio Code (VS Code).  
+  * Syntax highlighting for various programming languages.  
+  * IntelliSense for code completion and context-aware suggestions.  
 
 
   
