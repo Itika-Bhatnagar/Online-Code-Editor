@@ -25,11 +25,11 @@ code-editor-project
 ├── src  
 │   ├── components    
 │        ├── CodeEditor.jsx  
-|        ├── LanguageSelector.jsx  
-|        ├── Output.jsx 
+│        ├── LanguageSelector.jsx  
+│        ├── Output.jsx 
 │     ├── App.jsx   
-|     ├── api.jsx  
-|     ├── Constants.jsx  
+│     ├── api.jsx  
+│     ├── Constants.jsx  
 │     ├── main.jsx  
 │     ├── styles.css  
 ├── vite.config.js  
