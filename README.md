@@ -1,6 +1,6 @@
 ## Deployment:
 
-* Deployed the application to a hosting service (Vercel) 
+* Deployed the application to a hosting service *(Vercel)*  
 
 DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
@@ -8,8 +8,8 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
 ## High Level Overview
 
-* This project is a code editor built using React and the Monaco Editor and Vite.  
-* Chakra UI is used to style our Code Editor and Piston API to execute our Code.  
+* This project is a code editor built using **React** and the **Monaco Editor** and **Vite**.  
+* **Chakra UI** is used to style our Code Editor and **Piston API** to execute our Code.  
 * The goal of this project is to provide a powerful and customizable code editing experience.  
 * It allows you to write and execute your code in the browser in various programming languages directly from their web browser, eliminating the need for local SDK installations.  
 
@@ -20,7 +20,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 * Vite Build Tool: Employs Vite for fast, efficient, and optimized development and build processes.  
 * Monaco Editor: Integrates the Monaco Editor to provide a robust coding environment with advanced features like syntax highlighting, autocompletion.
 * Chakra UI: Used Chakra UI to make the UI more user friendly and easy to use.  
-* Multiple Language Support: It supports multiple languages . ( Eg- javascript,java,python,typescript,csharp,php )  
+* Multiple Language Support: It supports multiple languages . ( <u>Eg- javascript,java,python,typescript,csharp,php</u> )  
 * Syntax Highlighting: Supports syntax highlighting for various programming languages.  
 * Customizable Themes: Allows users to switch between light and dark theme.  
 * Autocompletion: Provides intelligent code suggestions and autocompletion.
