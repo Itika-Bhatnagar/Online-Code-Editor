@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This project is a code editor built using React and the Monaco Editor and Vite.  
 Chakra UI is used to style our Code Editor and Piston API to execute our Code.  
@@ -6,7 +6,7 @@ The goal of this project is to provide a powerful and customizable code editing 
 It allows you to write and execute your code in the browser.  
 
 
-# Features
+## Features
 Multiple Language Support: It supports multiple languages . Eg- javascript,java,python.  
 Syntax Highlighting: Supports syntax highlighting for various programming languages.  
 Customizable Themes: Allows users to switch between light and dark theme.  
