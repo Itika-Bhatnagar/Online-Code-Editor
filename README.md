@@ -67,8 +67,8 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
 
   
-## Project Structure.
-code-editor-project 
+## <font color="red">Project Structure.</font>
+code-editor-project   
 ├── public  
 │ ├── vite.svg  
 ├── src  
@@ -92,7 +92,7 @@ code-editor-project
 ## Key Components
 
 ### src/components/CodeEditor.jsx:
-* - React component that integrates Monaco Editor.  
+* React component that integrates Monaco Editor.  
 * Configures Monaco Editor instance with language support, theme, and editor options.  
 * Handles code editing functionalities such as syntax highlighting, code completion.
 
