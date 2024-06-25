@@ -21,6 +21,7 @@
 
 ## Project Structure.
 code-editor-project  
+'''
 ├── public ├── vite.svg  
 ├── src  
 │   ├── components    
@@ -36,7 +37,8 @@ code-editor-project
 ├── package.json   
 ├── package-lock.json  
 ├── index.html
-└── README.md  
+└── README.md 
+'''
 
 # Installation 
 * git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
