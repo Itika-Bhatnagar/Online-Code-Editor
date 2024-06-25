@@ -29,7 +29,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
 
 ## Technology Stack
-### <span style="color:blue">Vite</span>
+### *Vite*
 
 * Role:  
   * Vite is used as the build tool and development server.  
@@ -38,7 +38,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
   * Supports modern JavaScript features.  
   * Integrates seamlessly with React and other frontend libraries.  
  
-### React
+### *React*
 
 * Role:
   * React is the frontend JavaScript library for building user interfaces.  
@@ -47,7 +47,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
   * Efficient state management using hooks (e.g., useState ).  
   * Rich ecosystem with a vast selection of third-party libraries and components.  
 
-### Chakra UI
+### *Chakra UI*
 
 * Role:  
   * Chakra UI is a component library for React applications, providing a set of accessible and customizable UI components.  
@@ -56,7 +56,7 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
   * Themeability with support for custom themes and color modes.  
   * Seamless integration with React applications, providing a consistent design system.
 
-### Monaco Editor
+### *Monaco Editor*
 
 * Role:    
   * Monaco Editor is the code editor component, providing advanced editing capabilities.  
@@ -92,7 +92,7 @@ code-editor-project
 ## Key Components
 
 ### src/components/CodeEditor.jsx:
-* React component that integrates Monaco Editor.  
+* - React component that integrates Monaco Editor.  
 * Configures Monaco Editor instance with language support, theme, and editor options.  
 * Handles code editing functionalities such as syntax highlighting, code completion.
 
