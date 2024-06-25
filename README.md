@@ -42,11 +42,11 @@
 ### Chakra UI
 
 * Role:  
- * Chakra UI is a component library for React applications, providing a set of accessible and customizable UI components.  
+  * Chakra UI is a component library for React applications, providing a set of accessible and customizable UI components.  
 * Features:    
- * Pre-styled and accessible components that follow best practices in web accessibility.  
- * Themeability with support for custom themes and color modes.  
- * Seamless integration with React applications, providing a consistent design system.
+  * Pre-styled and accessible components that follow best practices in web accessibility.  
+  * Themeability with support for custom themes and color modes.  
+  * Seamless integration with React applications, providing a consistent design system.
 
 ### Monaco Editor
 
