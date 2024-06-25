@@ -41,18 +41,18 @@
 
 ### Chakra UI
 
-* Role:
+* Role:  
  * Chakra UI is a component library for React applications, providing a set of accessible and customizable UI components.  
-* Features:  
+* Features:    
  * Pre-styled and accessible components that follow best practices in web accessibility.  
  * Themeability with support for custom themes and color modes.  
  * Seamless integration with React applications, providing a consistent design system.
 
 ### Monaco Editor
 
-* Role:  
+* Role:    
  * Monaco Editor is the code editor component, providing advanced editing capabilities.  
-* Features:  
+* Features:    
  * Powering the editing experience similar to Visual Studio Code (VS Code).  
  * Syntax highlighting for various programming languages.  
  * IntelliSense for code completion and context-aware suggestions.  
