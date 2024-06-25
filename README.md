@@ -148,11 +148,4 @@ npm run dev
 ```
 The application will be available at http://localhost:5173/
 
-or 
-
-## Deployment:
-
-* Deployed the application to a hosting service (Vercel) 
-
-DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
