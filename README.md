@@ -16,20 +16,20 @@ DIRECTLY ACCESSABLE TO USE : https://online-code-editor-lime.vercel.app/
 
 
 ## Key Features
-* React Framework: Utilizes the React library for building a responsive and interactive user interface.  
-* Vite Build Tool: Employs Vite for fast, efficient, and optimized development and build processes.  
-* Monaco Editor: Integrates the Monaco Editor to provide a robust coding environment with advanced features like syntax highlighting, autocompletion.
-* Chakra UI: Used Chakra UI to make the UI more user friendly and easy to use.  
-* Multiple Language Support: It supports multiple languages . (Eg- <u>javascript</u>,java,python,typescript,csharp,<u>php</u> )  
-* Syntax Highlighting: Supports syntax highlighting for various programming languages.  
-* Customizable Themes: Allows users to switch between light and dark theme.  
-* Autocompletion: Provides intelligent code suggestions and autocompletion.
-* Cross-Platform Accessibility: Accessible from any device with a web browser, ensuring a consistent experience across different operating systems.  
+* **React Framework**: Utilizes the React library for building a responsive and interactive user interface.  
+* **Vite Build Tool**: Employs Vite for fast, efficient, and optimized development and build processes.  
+* **Monaco Editor**: Integrates the Monaco Editor to provide a robust coding environment with advanced features like syntax highlighting, autocompletion.
+* **Chakra UI**: Used Chakra UI to make the UI more user friendly and easy to use.  
+* **Multiple Language Support**: It supports multiple languages . (Eg- javascript,java,python,typescript,csharp,php )  
+* **Syntax Highlighting**: Supports syntax highlighting for various programming languages.  
+* **Customizable Themes**: Allows users to switch between light and dark theme.  
+* **Autocompletion**: Provides intelligent code suggestions and autocompletion.
+* **Cross-Platform Accessibility**: Accessible from any device with a web browser, ensuring a consistent experience across different operating systems.  
 
 
 
 ## Technology Stack
-### Vite
+### <span style="color:blue">Vite</span>
 
 * Role:  
   * Vite is used as the build tool and development server.  
