@@ -131,10 +131,10 @@ code-editor-project
 
 
 # Installation 
-'''bash
+```bash
 * git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
 * cd Online-Code-Editor
-''' 
+```
 
 
 ## Run Locally
