@@ -20,25 +20,23 @@
 * You can see the Output in the right box.  
 
 ## Project Structure.
-code-editor-project  
-'''
-├── public ├── vite.svg  
-├── src  
-│   ├── components    
-│        ├── CodeEditor.jsx  
-│        ├── LanguageSelector.jsx  
-│        ├── Output.jsx 
-│     ├── App.jsx   
-│     ├── api.jsx  
-│     ├── Constants.jsx  
-│     ├── main.jsx  
-│     ├── styles.css  
-├── vite.config.js  
-├── package.json   
-├── package-lock.json  
+code-editor-project ├── public
+│ ├── vite.svg
+├── src
+│ ├── components
+│ ├── CodeEditor.jsx
+│ ├── LanguageSelector.jsx
+│ ├── Output.jsx
+│ ├── App.jsx
+│ ├── api.jsx
+│ ├── Constants.jsx
+│ ├── main.jsx
+│ ├── styles.css
+├── vite.config.js
+├── package.json
+├── package-lock.json
 ├── index.html
-└── README.md 
-'''
+└── README.md
 
 # Installation 
 * git clone https://github.com/Itika-Bhatnagar/Online-Code-Editor.git  
